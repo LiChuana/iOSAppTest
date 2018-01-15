@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.1.72.78:8081/csjz.ipa</string>
+					<string>http://120.77.146.215:8088/Uploads/APP/ConstructionQuality.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.iRAID.chanshoujiazu</string>
+				<string>com.VisoLink.ConstructionQuality</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>chjz.0</string>
+				<string>实地工程</string>
 			</dict>
 		</dict>
 	</array>
